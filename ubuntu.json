@@ -78,7 +78,7 @@
     }],
     "variables": {
         "cpus": "1",
-        "disable_ipv6": "true",
+        "disable_ipv6": "false",
         "disk_size": "40960",
         "headless": "true",
         "hostname": "bionic64",
